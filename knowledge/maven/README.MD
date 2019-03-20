@@ -1,0 +1,1 @@
+- http://takari.io/book/30-team-maven.html#concurrent-safe-local-repository

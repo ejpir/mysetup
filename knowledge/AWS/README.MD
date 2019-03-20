@@ -1,0 +1,3 @@
+- /usr/bin/easy_install --script-dir /opt/aws/bin https://s3.amazonaws.com/cloudformation-examples/aws-cfn-bootstrap-latest.tar.gz
+- curl -o - -s -w ",%{http_code}\n" http://169.254.169.254/latest/meta-data/instance-id
+- https://github.com/adamchainz/ec2-metadata

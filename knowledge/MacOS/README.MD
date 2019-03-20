@@ -1,0 +1,3 @@
+- https://superuser.com/questions/4904/how-to-selectively-route-network-traffic-through-vpn-on-mac-os-x-leopard/206826#206826
+- https://ethancbanks.com/2016/09/26/auto-adding-routes-when-mac-pptp-connection-comes-up/
+- https://github.com/jwilm/alacritty

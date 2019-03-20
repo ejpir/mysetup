@@ -1,0 +1,5 @@
+- https://blog.jakubholy.net/2018/03/14/pains-with-terraform-perhaps-use-sceptre-next-time/
+- https://www.pulumi.com/
+- https://k9ss.io/
+- https://www.youtube.com/watch?time_continue=5355&v=ILMK65YVSKw && https://github.com/heptio/tgik/tree/master/episodes/064
+- https://speakerdeck.com/rochaporto/kubernetes-at-cern-use-cases-integration-and-challenges && https://www.youtube.com/watch?v=2PRGUOxL36M

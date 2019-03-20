@@ -1,0 +1,1 @@
+- https://www.peterbe.com/plog/best-practice-with-retries-with-requests

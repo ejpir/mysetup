@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/28164849/using-jq-to-parse-and-display-multiple-fields-in-a-json-serially
+- https://stackoverflow.com/questions/49181898/jq-replace-part-of-value-in-json

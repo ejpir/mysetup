@@ -1,0 +1,2 @@
+- https://kvz.io/blog/2013/11/21/bash-best-practices/ 
+- https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/

@@ -1,0 +1,5 @@
+- https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/ergonomics.html
+- https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/parallel.html#default_heap_size
+- https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/memman.html
+- https://hawt.io
+- https://rmoff.net/2018/09/19/exploring-jmx-with-jmxterm/

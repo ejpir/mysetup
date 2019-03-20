@@ -1,0 +1,8 @@
+- install iTerm2
+- brew install neovim
+- curl -sLf https://spacevim.org/install.sh | bash
+- pip3 install neovim
+- git clone https://github.com/ryanoasis/nerd-fonts.git
+- cd nerd-fonts;./install.sh
+- select Meslo LG font in iTerm profiles && ligatures, anti-alias
+- enable trueColor in iTerm2 (default after v3.x)

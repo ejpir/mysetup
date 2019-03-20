@@ -1,0 +1,3 @@
+- https://github.com/kamranahmedse/design-patterns-for-humans
+- https://github.com/kamranahmedse/developer-roadmap
+- https://landing.google.com/sre/sre-book/toc/
