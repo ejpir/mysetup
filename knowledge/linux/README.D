@@ -5,3 +5,4 @@
 - https://fedoramagazine.org/using-the-networkmanagers-dnsmasq-plugin/
 - https://ma.ttias.be/centos-7-networkmanager-keeps-overwriting-etcresolv-conf/
 - https://linuxaria.com/howto/linux-shell-introduction-to-flock
+- rsync -az -e 'ssh -o "proxycommand ssh -i ~/.ssh/id_rsa_bastion <user>@bastion -W %h:%p"' . <user>@<host>:<path>
