@@ -2,3 +2,4 @@
 - https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/
 - http://redsymbol.net/articles/bash-exit-traps/
 - https://stackoverflow.com/questions/12504957/how-to-avoid-a-bash-script-from-failing-when-e-option-is-set
+- https://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html
