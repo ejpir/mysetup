@@ -1,0 +1,2 @@
+- https://unix.stackexchange.com/questions/153763/dont-stop-makeing-if-a-command-fails-but-check-exit-status
+- https://stackoverflow.com/questions/7394290/how-to-check-return-value-from-the-shell-directive
