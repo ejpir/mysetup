@@ -1,1 +1,2 @@
 - https://www.peterbe.com/plog/best-practice-with-retries-with-requests
+- https://github.com/alliefitter/boto3_type_annotations (code completion)
