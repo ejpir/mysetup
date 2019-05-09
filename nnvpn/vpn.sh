@@ -1,5 +1,5 @@
 #!/bin/bash
-export TNCC_CERTS="/Users/nick/<cert..pem"
+export TNCC_CERTS="/Users/nick/<cert>.pem"
 export TNCC_DEVICE_ID="<mac>"
 export TNCC_FUNK="1"
 export TNCC_HOSTNAME="<laptop>"
