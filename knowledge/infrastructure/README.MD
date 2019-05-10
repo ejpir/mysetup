@@ -1,1 +1,3 @@
 - https://pulumi.io/reference/state.html
+- https://medium.com/@endofcake/using-terraform-for-zero-downtime-updates-of-an-auto-scaling-group-in-aws-60faca582664
+- https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform
