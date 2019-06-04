@@ -2,3 +2,5 @@
 - git clone git clone https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 - git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 - wget https://raw.githubusercontent.com/docker/cli/master/contrib/completion/zsh/_docker > ~/.oh-my-zsh/custom/completion
+- git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+- echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
