@@ -1,0 +1,1 @@
+- https://cloudbanshee.com/blog/connecting-to-private-api-over-vpn-or-vpc-peering (interal API GW gw exposed via ALB)
