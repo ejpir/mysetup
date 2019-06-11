@@ -1,0 +1,1 @@
+- https://github.com/cloudreach/sceptre/issues/329 (hooks) 
