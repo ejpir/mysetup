@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/2114111/where-does-git-config-global-get-written-to
