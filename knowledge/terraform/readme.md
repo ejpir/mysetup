@@ -1,0 +1,2 @@
+- https://readme.fr/draft-concourse-lazy-pipeline-templating-for-free/
+- https://blog.betomorrow.com/yaml-tips-and-tricks-for-concourse-ci-35a3b577a239
