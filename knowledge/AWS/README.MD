@@ -2,3 +2,4 @@
 - curl -o - -s -w ",%{http_code}\n" http://169.254.169.254/latest/meta-data/instance-id
 - https://github.com/adamchainz/ec2-metadata
 - https://github.com/iann0036/former2 generate cfn from resources
+- https://rj03hou.github.io/aws/aws_network_benchmark/
