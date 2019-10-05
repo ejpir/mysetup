@@ -1,2 +1,3 @@
 - https://github.com/kubernetes/dashboard
 - https://itnext.io/get-a-shell-to-a-kubernetes-node-9b720a15a4fe
+- https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/
