@@ -1,1 +1,2 @@
 - https://stackoverflow.com/questions/2114111/where-does-git-config-global-get-written-to
+- https://github.blog/2019-08-16-highlights-from-git-2-23/
