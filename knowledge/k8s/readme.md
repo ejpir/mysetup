@@ -3,3 +3,4 @@
 - https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines
 - https://github.com/justinbarrick/flux-operator
 - https://github.com/fluxcd/flux
+- https://www.weave.works/blog/what-is-gitops-really
