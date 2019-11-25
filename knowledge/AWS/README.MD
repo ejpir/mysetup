@@ -5,3 +5,4 @@
 - https://rj03hou.github.io/aws/aws_network_benchmark/
 - https://hackernoon.com/processing-real-time-big-data-streams-using-kinesis-lambda-561a029ef305
 - https://dev.to/dgreene/stand-by-your-lambda---overcoming-aws-lambdas-limitations-gnn
+- https://stuartsandine.com/private-static-websites-on-s3/
