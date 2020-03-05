@@ -8,3 +8,4 @@
 - https://github.com/helm/helm/blob/master/docs/charts_tips_and_tricks.md#automatically-roll-deployments-when-configmaps-or-secrets-c
 - https://github.com/wercker/stern
 - k9s
+- https://github.com/claranet/kcs
