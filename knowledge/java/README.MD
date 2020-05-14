@@ -3,3 +3,4 @@
 - https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/memman.html
 - https://hawt.io
 - https://rmoff.net/2018/09/19/exploring-jmx-with-jmxterm/
+- https://stackoverflow.com/questions/51474223/kubernetes-pods-restart-issue-anomaly (java/memory/containers)
