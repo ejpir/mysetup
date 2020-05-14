@@ -4,3 +4,4 @@
 - https://hawt.io
 - https://rmoff.net/2018/09/19/exploring-jmx-with-jmxterm/
 - https://stackoverflow.com/questions/51474223/kubernetes-pods-restart-issue-anomaly (java/memory/containers)
+- https://medium.com/adorsys/jvm-memory-settings-in-a-container-environment-64b0840e1d9e#fn13-20439
