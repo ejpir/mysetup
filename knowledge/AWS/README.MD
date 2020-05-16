@@ -6,3 +6,4 @@
 - https://hackernoon.com/processing-real-time-big-data-streams-using-kinesis-lambda-561a029ef305
 - https://dev.to/dgreene/stand-by-your-lambda---overcoming-aws-lambdas-limitations-gnn
 - https://stuartsandine.com/private-static-websites-on-s3/
+- https://github.com/xen0l/aws-gate/blob/master/README.md
