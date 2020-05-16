@@ -9,3 +9,4 @@
 - https://github.com/wercker/stern
 - k9s
 - https://github.com/claranet/kcs
+- https://blog.frankel.ch/your-own-kubernetes-controller/1/
