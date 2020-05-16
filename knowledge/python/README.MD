@@ -1,3 +1,4 @@
 - https://www.peterbe.com/plog/best-practice-with-retries-with-requests
 - https://github.com/alliefitter/boto3_type_annotations (code completion)
 - http://mypy-lang.org/examples.html
+- https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html
