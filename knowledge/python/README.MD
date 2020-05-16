@@ -2,3 +2,4 @@
 - https://github.com/alliefitter/boto3_type_annotations (code completion)
 - http://mypy-lang.org/examples.html
 - https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html
+- https://medium.com/@yeraydiazdiaz/what-the-mock-cheatsheet-mocking-in-python-6a71db997832
