@@ -1,3 +1,5 @@
 - https://readme.fr/draft-concourse-lazy-pipeline-templating-for-free/
 - https://blog.betomorrow.com/yaml-tips-and-tricks-for-concourse-ci-35a3b577a239
 - https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
+- https://stackoverflow.com/questions/57280623/terraform-0-12-produce-map-object-from-nested-for-loop
+- https://discuss.hashicorp.com/t/produce-maps-from-list-of-strings-of-a-map/2197/2
