@@ -1,1 +1,2 @@
 - https://blog.frankel.ch/your-own-kubernetes-controller/1/
+- https://github.com/wercker/stern
