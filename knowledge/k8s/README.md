@@ -1,2 +1,5 @@
 - https://blog.frankel.ch/your-own-kubernetes-controller/1/
 - https://github.com/wercker/stern
+- https://github.com/helm/helm/issues/3005
+- https://github.com/kubernetes/kubernetes/issues/71305
+- https://github.com/aws/amazon-vpc-cni-k8s/issues/231
