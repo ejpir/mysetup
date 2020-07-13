@@ -3,3 +3,4 @@
 - https://github.com/helm/helm/issues/3005
 - https://github.com/kubernetes/kubernetes/issues/71305
 - https://github.com/aws/amazon-vpc-cni-k8s/issues/231
+- https://github.com/OpenLiberty/guide-kubernetes-microprofile-health
